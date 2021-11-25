@@ -1,5 +1,5 @@
-import { hello } from "../src";
+import Able from "../src";
 
-test("hello", () => {
-    expect(hello("foo")).toEqual("Hello foo")
+test("Able is exported", () => {
+  expect(Able).toBeInstanceOf(Object);
 });

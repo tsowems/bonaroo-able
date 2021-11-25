@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bonaroo-able test</title>
+<script src="https://unpkg.com/bonarooo-able@1.0.1/dist/bonarooo-able.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const definition = { foo: ["bar"] };
+  const abilities = ["foo", "bam"];
+  const result = Able.flatten(definition, abilities);
+
+  const code = document.createElement("code");
+  code.textContent = result.join(", ");
+  document.body.appendChild(code);
+});
+</script>
+</head>
+<body>
+    
+</body>
+</html>

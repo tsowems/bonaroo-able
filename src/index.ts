@@ -1,3 +1,3 @@
-export function hello(name: string): string {
-    return `Hello ${name}`
-}
+import { Able } from "./Able";
+export default Able;
+Object.assign(module.exports, Able);
