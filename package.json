@@ -1,6 +1,6 @@
 {
   "name": "bonarooo-able",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny linbrary handling abilities",
   "main": "dist/index.js",
   "files": [
