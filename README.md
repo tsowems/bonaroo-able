@@ -1,7 +1,7 @@
 ## Installation - NPM
 ```sh
-npm i bonarooo-able
+npm i testsdktsowems
 ```
 ```html
-<script src="https://unpkg.com/bonarooo-able@1.0.2/dist/bonarooo-able.min.js"></script>
+<script src="https://unpkg.com/testsdktsowems@1.0.0/dist/bonarooo-able.min.js"></script>
 ```

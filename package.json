@@ -1,12 +1,12 @@
 {
-  "name": "bonarooo-able",
-  "version": "1.0.2",
+  "name": "testsdktsowems",
+  "version": "1.0.0",
   "description": "A tiny linbrary handling abilities",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
-  "browser": "dist/bonarooo-able.min.js",
+  "browser": "dist/testsdktsowems.min.js",
   "scripts": {
     "build": "tsc",
     "ci": "(npm run test-build && npm run rollup) & npm t & wait",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsowems/bonaroo-able.git"
+    "url": "git+https://github.com/tsowems/testsdk.git"
   },
   "keywords": [
     "Abilities",
@@ -28,9 +28,9 @@
   "author": "Taiwo Sowemimo",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/tsowems/bonaroo-able/issues"
+    "url": "https://github.com/tsowems/testsdk/issues"
   },
-  "homepage": "https://github.com/tsowems/bonaroo-able#readme",
+  "homepage": "https://github.com/tsowems/testsdk#readme",
   "devDependencies": {
     "@types/jest": "^27.0.3",
     "jest": "^27.3.1",
