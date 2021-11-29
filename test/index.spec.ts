@@ -1,5 +1,5 @@
-import Able from "../src";
+import Sso from "../src";
 
-test("Able is exported", () => {
-  expect(Able).toBeInstanceOf(Object);
+test("SSo is exported", () => {
+  expect(Sso).toBeInstanceOf(Object);
 });

@@ -1,7 +1,7 @@
 ## Installation - NPM
 ```sh
-npm i testsdktsowems
+npm i finssosdk 
 ```
 ```html
-<script src="https://unpkg.com/testsdktsowems@1.0.1/dist/bonarooo-able.min.js"></script>
+<script src="https://unpkg.com/finssosdk@0.0.1/dist/finssosdk.min.js"></script>
 ```

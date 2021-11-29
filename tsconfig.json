@@ -1,8 +1,8 @@
 {
     "compilerOptions": {
       "outDir": "dist",
-      "lib": ["es2016"],
-      "sourceMap": true
+      "lib": ["DOM"],
+      "sourceMap": true,
     },
     "include": [
       "src/**/*.ts"
